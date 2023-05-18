@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#D2B48C"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/a002Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#A0522D"
+        android:text="A002"
+        android:textColor="#FFFFE0" />
+
+    <Button
+        android:id="@+id/b002Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#A0522D"
+        android:text="B002"
+        android:textColor="#FFFFE0" />
+
+    <Button
+        android:id="@+id/c206Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#A0522D"
+        android:text="C206"
+        android:textColor="#FFFFE0" />
+
+    <Button
+        android:id="@+id/c338Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#A0522D"
+        android:text="C338"
+        android:textColor="#FFFFE0" />
+
+    <Button
+        android:id="@+id/c346Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#A0522D"
+        android:text="C346"
+        android:textColor="#FFFFE0" />
+
+    <Button
+        android:id="@+id/c378Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#A0522D"
+        android:text="C378"
+        android:textColor="#FFFFE0" />
+
+</LinearLayout>
+
